@@ -1,0 +1,17 @@
+.source-image,
+.result-image {
+    max-height: 100%;
+    max-width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.result-table {
+    text-align: left;
+    color: white;
+}
+
+.demo-source-wrapper, .demo-result-wrapper {
+    position: relative;
+}
